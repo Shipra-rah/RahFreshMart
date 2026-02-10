@@ -41,7 +41,7 @@ export default function FloatingActions() {
 
       {/* Call */}
       <a
-        href="tel:+91XXXXXXXXXX"
+        href="tel:+919616350866"
         className="
           group flex h-12 w-12 items-center justify-center
           overflow-hidden rounded-full
