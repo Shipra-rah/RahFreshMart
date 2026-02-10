@@ -80,6 +80,7 @@ const categorySections = [
         image: "/homeImage/Atta&Flour.jpg",
         color: "from-amber-100 to-orange-100",
       },
+      
       {
         name: "Rice & Grains",
         icon: Wheat,

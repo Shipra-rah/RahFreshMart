@@ -5,7 +5,9 @@ import {
   Facebook,
   Instagram,
   Twitter,
+  ChevronRight,
 } from "lucide-react";
+
 
 /* ===================================================== */
 /* CONFIG                                                 */
@@ -71,9 +73,9 @@ const Footer = () => {
             {QUICK_LINKS.map((link) => (
               <li
                 key={link}
-                className="cursor-pointer transition hover:text-white"
+                className="cursor-pointer transition hover:text-white flex items-center gap-1"
               >
-                {link}
+                <ChevronRight /> {link}
               </li>
             ))}
           </ul>
