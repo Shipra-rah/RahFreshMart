@@ -7,7 +7,7 @@ export default function FloatingActions() {
 
       {/* WhatsApp */}
       <a
-        href="https://wa.me/9616350866"
+        href="https://wa.me/919616350866?text=Hello%20RahKirana%2C%20I%20would%20like%20to%20inquire%20about%20your%20products."
         target="_blank"
         rel="noreferrer"
         className="
